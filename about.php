@@ -23,7 +23,7 @@
                 <a class="logo" href="index.php"><img src="images/logo.png"></a>
 
                 <div class="right-area">
-                        <h6><a class="plr-20 color-white btn-fill-primary" href="tel:+91 700 998 4070">Call Us: +91 700 998 4070</a></h6>
+                <h6><a class="plr-20 color-white btn-fill-primary" href="tel:+1 516 477 2120">Call Us: +1 516 477 2120</a></h6>
                 </div><!-- right-area -->
 
                 <a class="menu-nav-icon" data-menu="#main-menu" href="#"><i class="ion-navicon"></i></a>
@@ -202,7 +202,7 @@
 
                 <div class="pt-30">
                         <p class="underline-secondary mb-10"><b>Phone:</b></p>
-                        <a href="tel:+91 700 998 4070">+91 700 998 4070</a>
+                        <a href="tel:+1 516 477 2120">+1 516 477 2120</a>
                 </div>
 
                 <div class="pt-30">
